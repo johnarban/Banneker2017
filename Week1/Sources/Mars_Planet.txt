@@ -1,0 +1,3 @@
+Name = Mars
+Temperature = 226K
+Mass = 6.41E23 kg

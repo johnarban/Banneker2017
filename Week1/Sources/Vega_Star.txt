@@ -1,0 +1,4 @@
+Name = Vega
+Temperature = 9800K
+Mass = 2.9 M_sun
+Mass = 2.9 M_sun

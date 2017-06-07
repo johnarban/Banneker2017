@@ -1,0 +1,4 @@
+Name = Sirius
+Temperature = 9400K
+Mass = 2.6 M_sun
+Mass = 2.6 M_sun

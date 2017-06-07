@@ -1,0 +1,3 @@
+Name = Earth
+Temperature = 287.15K
+Mass = 5.9E24 kg

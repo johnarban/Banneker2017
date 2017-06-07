@@ -1,0 +1,4 @@
+Name = Altair
+Temperature = 7800K
+Mass = 1.8 M_sun
+Mass = 1.8 M_sun

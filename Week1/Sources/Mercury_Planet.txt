@@ -1,0 +1,3 @@
+Name = Mercury
+Temperature = 452K
+Mass = 3.30E23 kg

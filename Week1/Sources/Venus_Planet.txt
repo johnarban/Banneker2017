@@ -1,0 +1,3 @@
+Name = Venus
+Temperature = 730K
+Mass = 4.86E24 kg
